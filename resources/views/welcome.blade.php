@@ -5,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel</title>
+        <title>Pankaj Adhyapak</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
@@ -75,15 +75,14 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Pankaj Adhyapak
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Documentation</a>
-                    <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://laravel-news.com">News</a>
-                    <a href="https://forge.laravel.com">Forge</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                    <a href="tel:+917411751845">Phone</a>
+                    <a target="_NEW" href="https://www.facebook.com/pankajadhyapak">Facebook</a>
+                    <a target="_NEW" href="https://twitter.com/pankaddy">Twitter</a>
+                    <a target="_NEW" href="https://github.com/pankajadhyapak">Github</a>
                 </div>
             </div>
         </div>
